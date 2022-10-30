@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\контрольная1\bin\Debug\net6.0\контрольная1.exe
+C:\Users\Пользователь\Desktop\контрольная1\bin\Debug\net6.0\контрольная1.deps.json
+C:\Users\Пользователь\Desktop\контрольная1\bin\Debug\net6.0\контрольная1.runtimeconfig.json
+C:\Users\Пользователь\Desktop\контрольная1\bin\Debug\net6.0\контрольная1.dll
+C:\Users\Пользователь\Desktop\контрольная1\bin\Debug\net6.0\контрольная1.pdb
+C:\Users\Пользователь\Desktop\контрольная1\obj\Debug\net6.0\контрольная1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\контрольная1\obj\Debug\net6.0\контрольная1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\контрольная1\obj\Debug\net6.0\контрольная1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\контрольная1\obj\Debug\net6.0\контрольная1.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\контрольная1\obj\Debug\net6.0\контрольная1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\контрольная1\obj\Debug\net6.0\контрольная1.dll
+C:\Users\Пользователь\Desktop\контрольная1\obj\Debug\net6.0\refint\контрольная1.dll
+C:\Users\Пользователь\Desktop\контрольная1\obj\Debug\net6.0\контрольная1.pdb
+C:\Users\Пользователь\Desktop\контрольная1\obj\Debug\net6.0\контрольная1.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\контрольная1\obj\Debug\net6.0\ref\контрольная1.dll
