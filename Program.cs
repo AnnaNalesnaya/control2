@@ -17,3 +17,10 @@ string[] CreatNewArray(string[] array)
     Array.Resize(ref newArray, j);
     return newArray;
 }
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        System.Console.Write($"{array[i]};\t");
+    }
+}
